@@ -1,4 +1,10 @@
 ### ¡Hola, soy Eliana Rivarola!
+ **Desarrolladora Fullstack MERN & App Mobile**
+ #
+ **Contactate conmigo**
+ - GitHub: @eliirivarola23
+- LinkedIn: https://www.linkedin.com/in/eliana-rivarola
+- #
 💻Habilidades tecnológicas:
 - HTML5
 - CSS3
