@@ -9,5 +9,5 @@
 
  #
 **Contactate conmigo**
- - GitHub: @eliirivarola23
+ - Email: rivarolaelii@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eliana-rivarola
